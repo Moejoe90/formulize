@@ -1,2 +1,2 @@
-# formulize
+# Formulize
 Notion formula transpiler
